@@ -1,0 +1,5 @@
+streamlit
+torch
+yolov5
+opencv-python
+matplotlib

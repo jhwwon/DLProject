@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+env/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data (Ignore large datasets, keep only samples if necessary)
+# data/
+# !data/casting_data_sample/
+
+# Models
+# models/*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
